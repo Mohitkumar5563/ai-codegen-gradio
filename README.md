@@ -1,2 +1,2 @@
-# ai-codegen-gradio
-AI-Assisted Code Generation with CodeGen and Gradio
+# AI Code Generation Project
+This is an AI-powered code generator using HuggingFace Transformers and Gradio UI.
