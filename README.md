@@ -19,3 +19,17 @@ This project is an **AI-powered Code Generation Tool** built using **CodeGen mod
 
 ## 🧠 Example Prompt
 
+
+# 🌐 How to Run (on Colab)
+
+1. Open `app.py` in Colab
+2. Run all cells
+3. The Gradio interface will appear to generate code!
+
+## 📦 Future Enhancements
+
+- Support more models (Code LLaMA, StarCoder, etc.)
+- Add download/save option for generated code
+- Improve prompt understanding
+
+----
